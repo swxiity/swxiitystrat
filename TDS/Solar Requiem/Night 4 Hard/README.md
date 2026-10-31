@@ -1,6 +1,6 @@
 # 🌔 ENJOY FULLY AFK NIGHT 4 HARD MODE!!
 
-everything except auto puzzle made by me.
+⚠️ AS OF 10/31/2026 DELTA IS BROKEN WITH AUTOSTRAY, MAY NOT FUNCTION PROPERLY
 
 **Loadout: (Golden scout Method)**
 
@@ -45,7 +45,7 @@ Gscout method proof:
 
 ---
 
-Slasher method proof:
+Assassin method proof:
 <img width="743" height="672" alt="image" src="https://github.com/user-attachments/assets/02d10c25-9455-49e2-952f-012430dae1b9" />
 
 ---
