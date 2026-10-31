@@ -18,11 +18,11 @@ DJ, Gatling Gun, Mercenary Base, Golden Scout, Hacker
 
 ```
 DJ, Gatling Gun, Mercenary Base, Slasher, Hacker
-
+```
 - Gatlify is needed.
 - ⚠️ Can autoskip, not tested
 - Don't use 2x speed wave 30.
-```
+
 
 # 🛠️ HELP CENTER
 
