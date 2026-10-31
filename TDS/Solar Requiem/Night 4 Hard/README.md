@@ -42,6 +42,8 @@ DJ, Gatling Gun, Mercenary Base, Slasher, Hacker
 Gscout method proof:
 <img width="787" height="696" alt="image" src="https://github.com/user-attachments/assets/c1d4fd77-ac00-4569-8640-5f264324dd0b" />
 
+---
+
 Slasher method proof:
 <img width="743" height="672" alt="image" src="https://github.com/user-attachments/assets/02d10c25-9455-49e2-952f-012430dae1b9" />
 
