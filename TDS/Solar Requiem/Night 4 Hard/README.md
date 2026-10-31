@@ -1,6 +1,6 @@
 # 🛠️ HELP CENTER
 
-**A - Problem:** Dying on wave 30.
+**A - Problem:** Dying on wave 30 or before.
 
 **B - Reason/Fix:** Gatling isn't auto-shooting. Check `Gatlify Auto Shoot`, Using railgun instead of Gatlify (Use Gatlify).
 
