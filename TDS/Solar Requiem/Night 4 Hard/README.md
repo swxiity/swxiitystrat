@@ -2,7 +2,7 @@
 
 Auto Puzzle, Auto Orange Zone, FULLY AFK!!! YAYAYAYAYAYA
 
-**Loadout:**
+**Loadout: (Gscout Method)**
 
 ```
 DJ, Gatling Gun, Mercenary Base, Golden Scout, Hacker
@@ -14,6 +14,15 @@ DJ, Gatling Gun, Mercenary Base, Golden Scout, Hacker
 
 --- 
 
+**Loadout: (Slasher Method)**
+
+```
+DJ, Gatling Gun, Mercenary Base, Slasher, Hacker
+
+- Gatlify is needed.
+- ⚠️ Can autoskip, not tested
+- Don't use 2x speed wave 30.
+```
 
 # 🛠️ HELP CENTER
 
