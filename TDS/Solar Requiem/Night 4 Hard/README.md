@@ -1,8 +1,8 @@
-# ENJOY FULLY AFK NIGHT 4 HARD MODE!!
+# 🌔 ENJOY FULLY AFK NIGHT 4 HARD MODE!!
 
 everything except auto puzzle made by me.
 
-**Loadout: (Gscout Method)**
+**Loadout: (Golden scout Method)**
 
 ```
 DJ, Gatling Gun, Mercenary Base, Golden Scout, Hacker
@@ -10,7 +10,8 @@ DJ, Gatling Gun, Mercenary Base, Golden Scout, Hacker
 **Notes:**
 - Gatlify is needed.
 - Disable Autoskip
-- Don't use 2x speed wave 30.
+- Don't use 2x speed wave 30
+- YES Golden Perk is needed on scout (no way?).
 
 --- 
 
