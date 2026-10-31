@@ -8,14 +8,4 @@
 - If a strategy is marked **BETA** or **UNFINISHED**, DON'T FUCKING TOUCH IT. It's probably not going to work 99% of the time.
 - Every **RELEASED** strategy has a 100% win rate. If you lose, check the `Help Center` first. You might find a solution.
 
----
-
-# 🛠️ HELP CENTER
-
-**A - Problem:** Dying on wave 30.
-
-**B - Reason/Fix:** Gatling isn't auto-shooting. Check `Gatlify Auto Shoot`.
-
----
-
 <sub>📌 Read the documentation before asking for support. Save us both some time.</sub>
