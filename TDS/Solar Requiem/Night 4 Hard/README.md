@@ -2,6 +2,19 @@
 
 Auto Puzzle, Auto Orange Zone, FULLY AFK!!! YAYAYAYAYAYA
 
+**Loadout:**
+
+```
+DJ, Gatling Gun, Mercenary Base, Golden Scout, Hacker
+```
+**Notes:**
+- Gatlify is needed.
+- Disable Autoskip
+- Don't use 2x speed wave 30.
+
+--- 
+
+
 # 🛠️ HELP CENTER
 
 **A - Problem:** Dying on wave 30 or before.
