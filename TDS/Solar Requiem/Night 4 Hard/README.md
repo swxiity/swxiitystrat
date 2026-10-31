@@ -4,6 +4,10 @@
 
 **B - Reason/Fix:** Gatling isn't auto-shooting. Check `Gatlify Auto Shoot`, Using railgun instead of Gatlify (Use Gatlify).
 
+**A - Problem:** Crash while using ur script.
+
+**B - Reason/Fix:** Lower graphic to lowest, use built-in Aether Anti Lag, get a better device (skill issue).
+
 ⚠️ **You need to Micro Manage Puzzle for it to work !!**
 
 ---
