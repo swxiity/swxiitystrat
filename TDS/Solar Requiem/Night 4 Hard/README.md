@@ -15,10 +15,10 @@ DJ, Gatling Gun, Mercenary Base, Golden Scout, Hacker
 
 --- 
 
-**Loadout: (Slasher Method)**
+**Loadout: (Assassin Method)**
 
 ```
-DJ, Gatling Gun, Mercenary Base, Slasher, Hacker
+DJ, Gatling Gun, Mercenary Base, Assassin, Hacker
 ```
 - Gatlify is needed.
 - ⚠️ Can autoskip, not tested
