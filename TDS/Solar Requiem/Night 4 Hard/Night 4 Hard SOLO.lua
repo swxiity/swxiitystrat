@@ -3,7 +3,7 @@ task.wait(5)
 -- [ Settings ] --
 getgenv().AutoSkipCutscenes = true
 getgenv().AutoChain = true
-getgenv().AutoMedic = true
+getgenv().AutoSkip = false
 getgenv().AutoDJ = true
 getgenv().AutoMercenary = true
 -- [ End Settings ] --
