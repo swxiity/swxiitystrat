@@ -12,7 +12,7 @@ local TDS = loadstring(game:HttpGet("https://getaether.cc/loader.lua"))()
 task.wait(5)
 TDS:Loadout("DJ Booth", "Gatling Gun", "Mercenary Base", "Scout", "Hacker")
 TDS:Mode("Act4")
-TDS:GameInfo("Totality Tower", {})
+TDS:GameInfo("Nightmare Flash", {})
 
 TDS:Place("Scout", -16.479284286499023, 1.0612151622772217, -32.71319580078125)
 TDS:Upgrade(1)
