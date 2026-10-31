@@ -1,3 +1,7 @@
+# ENJOY FULLY AFK NIGHT 4 HARD MODE!!
+
+Auto Puzzle, Auto Orange Zone, FULLY AFK!!! YAYAYAYAYAYA
+
 # 🛠️ HELP CENTER
 
 **A - Problem:** Dying on wave 30 or before.
