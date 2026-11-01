@@ -24,6 +24,13 @@ DJ, Gatling Gun, Mercenary Base, Assassin, Hacker
 - ⚠️ Can autoskip, not tested
 - Don't use 2x speed wave 30.
 
+# SHOT OF THE CENTURY STRAT 🔫
+
+**Loadout: (Assassin Method)**
+
+```
+Star Cannon, Gatling Gun, Mercenary Base, Assassin, Hacker
+```
 
 # 🛠️ HELP CENTER
 
@@ -49,3 +56,5 @@ Assassin method proof:
 <img width="743" height="672" alt="image" src="https://github.com/user-attachments/assets/02d10c25-9455-49e2-952f-012430dae1b9" />
 
 ---
+
+Shot of the century proof: <img width="728" height="658" alt="image" src="https://github.com/user-attachments/assets/3322b321-89bc-41bb-8868-ae424583729b" />
