@@ -304,3 +304,4 @@ TDS:Ability(16, "Hologram Tower", {towerPosition = Vector3.new(4.357229232788086
 -- [ Wave 30 ] --
 TDS:Ability(14, "StarCannonAbility")
 TDS:Ability(16, "Hologram Tower", {towerPosition = Vector3.new(-6.740209579467773, 1.0609829425811768, -15.924768447875977), towerToClone = 6}, true)
+TDS:Ability(16, "Hologram Tower", {towerPosition = Vector3.new(-9.364639282226562, 0.9999822378158569, 1.3274860382080078), towerToClone = 6}, true)
