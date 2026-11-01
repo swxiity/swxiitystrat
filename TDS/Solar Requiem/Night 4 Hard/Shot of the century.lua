@@ -299,9 +299,9 @@ TDS:Upgrade(43)
 TDS:Upgrade(43)
 
 -- [ Wave 28 ] --
-TDS:Ability(8, "Hologram Tower", {towerPosition = Vector3.new(-3.5859146118164062, 0.9999831914901733, 1.9490413665771484), towerToClone = 5}, true)
+TDS:Ability(8, "Hologram Tower", {towerPosition = Vector3.new(-3.5859146118164062, 0.9999831914901733, 1.9490413665771484), towerToClone = 6}, true)
 
 -- [ Wave 30 ] --
 TDS:Ability(14, "StarCannonAbility")
-TDS:Ability(8, "Hologram Tower", {towerPosition = Vector3.new(-9.859330177307129, 0.9999997615814209, 2.994504928588867), towerToClone = 5}, true)
-TDS:Ability(8, "Hologram Tower", {towerPosition = Vector3.new(-3.491374969482422, 0.9999814629554749, 2.9926929473876953), towerToClone = 5}, true)
+TDS:Ability(8, "Hologram Tower", {towerPosition = Vector3.new(-9.859330177307129, 0.9999997615814209, 2.994504928588867), towerToClone = 6}, true)
+TDS:Ability(8, "Hologram Tower", {towerPosition = Vector3.new(-3.491374969482422, 0.9999814629554749, 2.9926929473876953), towerToClone = 6}, true)
