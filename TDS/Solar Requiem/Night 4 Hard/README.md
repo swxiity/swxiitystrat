@@ -31,6 +31,12 @@ DJ, Gatling Gun, Mercenary Base, Assassin, Hacker
 ```
 Star Cannon, Gatling Gun, Mercenary Base, Assassin, Hacker
 ```
+**Notes:**
+- Gatlify is needed.
+- Disable Autoskip !
+- Don't use 2x speed after wave 25
+
+
 
 # 🛠️ HELP CENTER
 
