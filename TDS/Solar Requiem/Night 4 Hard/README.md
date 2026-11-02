@@ -50,7 +50,7 @@ Star Cannon, Gatling Gun, Mercenary Base, Assassin, Hacker
 
 **A - Problem:** Crash while using ur script.
 
-**B - Reason/Fix:** Lower graphic to lowest, use built-in Aether Anti Lag, get a better device (skill issue).
+**B - Reason/Fix:** Lower graphic to lowest, use built-in Aether Anti Lag, get a better device/executor (skill issue).
 
 ---
 Gscout method proof:
