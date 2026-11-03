@@ -4,6 +4,8 @@
 
 ---
 
+**NOTES:** Night 4 strat is in the Night 4 Hard here:
+
 **🛠️ Update Log:**
 
 - Fixed Night 3 Dying to Lead enemies
