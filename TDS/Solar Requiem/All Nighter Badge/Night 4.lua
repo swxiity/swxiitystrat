@@ -10,8 +10,6 @@ getgenv().AutoMercenary = true
 
 local TDS = loadstring(game:HttpGet("https://getaether.cc/loader.lua"))()
 task.wait(5)
-TDS:Mode("Act4")
-TDS:GameInfo("Totality Tower", {})
 
 TDS:Place("Scout", -16.479284286499023, 1.0612151622772217, -32.71319580078125)
 TDS:Upgrade(1)
