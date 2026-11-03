@@ -9,10 +9,6 @@ getgenv().AutoMercenary = true
 
 local TDS = loadstring(game:HttpGet("https://getaether.cc/loader.lua"))()
 
-TDS:Loadout("DJ Booth", "Gatling Gun", "Mercenary Base", "Scout", "Hacker")
-TDS:Mode("Act2")
-TDS:GameInfo("Nightmare Flash", {})
-
 TDS:Ready()
 TDS:Place("Scout", 1.5665676593780518, 47.87057113647461, 4.419425010681152)
 TDS:Place("Scout", 4.5154523849487305, 48.03474807739258, 5.158053398132324)
