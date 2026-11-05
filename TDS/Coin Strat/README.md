@@ -5,3 +5,5 @@
 ```Loadout: DJ, Gatling Gun, Shotgunner, Trapper, Hacker```
 
 - For the second mini quest aka defeat Warlord Molten with shotgunner, you need to micro it as a shotgunner need to last hit the boss
+
+# SOON FOR FROST
