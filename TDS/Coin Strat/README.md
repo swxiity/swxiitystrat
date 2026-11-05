@@ -16,6 +16,15 @@
 - USE GATLIFY
 - REQUIRE ENFORCER LEVEL 20
 
+**Results (Skill Tree Needed)**
+```
+2X Timescale
+(Exactly 9:13 Game)
+1X Timesale
+(Exactly 18m4 Game)
+```
+---
+
 # Infernal Abyss
 
 *Not really a good coin farming strat, it's only purpose is to get Slayer shotgunner from quest.*
