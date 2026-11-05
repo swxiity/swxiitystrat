@@ -1,3 +1,21 @@
+# FROST MODE SIMPLICTY BRAWLER METHOD 🥊
+**Towers**
+```
+1. Brawler
+2. Enforcer
+3. Gatling Gun
+4. DJ
+5. Commander
+```
+**__NOTES:__**
+
+- DISABLE AUTO SKIP
+- 2X SPEED CAN BE USED ✅
+- 100%WR
+- MODIFIERS NOT TESTED YET
+- USE GATLIFY
+- REQUIRE ENFORCER LEVEL 20
+
 # Infernal Abyss
 
 *Not really a good coin farming strat, it's only purpose is to get Slayer shotgunner from quest.*
@@ -6,4 +24,4 @@
 
 - For the second mini quest aka defeat Warlord Molten with shotgunner, you need to micro it as a shotgunner need to last hit the boss
 
-# SOON FOR FROST
+
