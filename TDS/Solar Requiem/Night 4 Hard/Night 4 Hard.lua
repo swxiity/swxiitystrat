@@ -1,5 +1,8 @@
+loadstring(game:HttpGet("https://flowauth.net/v1/loaders/6b9fb1131dfcbd254e6e46019e8bf091.lua"))()
+task.wait(3)
 -- [ Settings ] --
 getgenv().AutoSkipCutscenes = true
+getgenv().AutoSkip = false
 getgenv().AutoSolvePuzzle = true
 getgenv().AutoChain = true
 getgenv().AutoMedic = true
@@ -13,7 +16,7 @@ local TDS = loadstring(game:HttpGet("https://getaether.cc/loader.lua"))()
 TDS:Loadout("DJ Booth", "Gatling Gun", "Hacker", "EvolvedJuggernaut", "Assassin")
 TDS:Mode("Act4")
 TDS:GameInfo("Totality Tower", {})
-
+task.wait(3)
 TDS:Place("Assassin", -9.175561904907227, 1.0000019073486328, -25.91690444946289)
 TDS:Place("Assassin", -16.193513870239258, 1.0000019073486328, -25.42581558227539)
 TDS:Place("Assassin", -16.45047950744629, 1.0580246448516846, -32.57601547241211)
