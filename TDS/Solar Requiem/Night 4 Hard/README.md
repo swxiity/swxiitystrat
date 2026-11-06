@@ -2,17 +2,7 @@
 
 # ULTIMATE NIGHT 4.LUA
 
-LOADOUT:
-```
-DJ, Gatling Gun, Hacker, Juggernaut (LVL 20), Enginner
-```
-**__NOTES:__**
-
-- Gatlify is needed.
-- DISABLE AUTO SKIP
-- Don't use 2x Timescale wave 30
-- You need Juggernaut lvl 20.
-- True 100% Winrate (no rng based)
+gg they killed it (no more 4,100 cash on spawn)
 
 ---
 
