@@ -12,6 +12,10 @@ DJ, Gatling Gun, Hacker, Juggernaut (LVL 20), Enginner
 - DISABLE AUTO SKIP
 - Don't use 2x Timescale wave 30
 - You need Juggernaut lvl 20.
+- True 100% Winrate (no rng based)
+
+---
+
 
 **Loadout: (Golden scout Method)**
 
