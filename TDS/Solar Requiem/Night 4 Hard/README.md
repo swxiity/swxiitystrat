@@ -67,15 +67,3 @@ Star Cannon, Gatling Gun, Mercenary Base, Assassin, Hacker
 
 **B - Reason/Fix:** Lower graphic to lowest, use built-in Aether Anti Lag, get a better device/executor (skill issue).
 
----
-Gscout method proof:
-<img width="787" height="696" alt="image" src="https://github.com/user-attachments/assets/c1d4fd77-ac00-4569-8640-5f264324dd0b" />
-
----
-
-Assassin method proof:
-<img width="743" height="672" alt="image" src="https://github.com/user-attachments/assets/02d10c25-9455-49e2-952f-012430dae1b9" />
-
----
-
-Shot of the century proof: <img width="728" height="658" alt="image" src="https://github.com/user-attachments/assets/3322b321-89bc-41bb-8868-ae424583729b" />
