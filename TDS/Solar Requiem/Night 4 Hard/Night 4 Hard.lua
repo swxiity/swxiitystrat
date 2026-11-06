@@ -1,4 +1,3 @@
-```lua
 -- [ Settings ] --
 getgenv().AutoSkipCutscenes = true
 getgenv().AutoSolvePuzzle = true
@@ -293,4 +292,3 @@ TDS:Ability(9, "Hologram Tower", {towerPosition = Vector3.new(7.5882568359375, 0
 TDS:Ability(10, "Hologram Tower", {towerPosition = Vector3.new(-6.898536682128906, 1.06098473072052, -5.560325622558594), towerToClone = 5}, true)
 TDS:Ability(9, "Hologram Tower", {towerPosition = Vector3.new(7.314910888671875, 0.9999770522117615, -20.725997924804688), towerToClone = 13}, true)
 TDS:Ability(10, "Hologram Tower", {towerPosition = Vector3.new(-6.882067680358887, 1.060984492301941, -5.807653427124023), towerToClone = 5}, true)
-```
