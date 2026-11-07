@@ -5,7 +5,6 @@ getgenv().AutoDJ = true
 
 local TDS = loadstring(game:HttpGet("https://getaether.cc/loader.lua"))()
 
-TDS:Loadout("DJ Booth", "Gatling Gun", "Hacker", "EvolvedJuggernaut", "Assassin")
 TDS:Mode("Act2")
 TDS:GameInfo("Nightmare Flash", {})
 
