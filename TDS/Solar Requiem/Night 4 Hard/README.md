@@ -11,7 +11,6 @@
 ---
 
 # 🛠️ HELP CENTER
----
 A - Problem
 B - Fixe(s)
 ---
