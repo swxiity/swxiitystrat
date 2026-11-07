@@ -17,5 +17,5 @@ B - Fixe(s)
 
 ---
 
-A - I die last wave
-B - Use gatlify, RNG based, user sided problem (executor, lags, fps drop)
+- A - I die last wave
+- B - Use gatlify, RNG based, user sided problem (executor, lags, fps drop)
