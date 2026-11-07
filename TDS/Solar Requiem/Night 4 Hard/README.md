@@ -8,8 +8,6 @@
 - Do NOT use more than x1 speed on wave 30 (last wave)
 - Use Gatlify (do NOT use Railgun)
 
----
-
 # 🛠️ HELP CENTER
 
 - A - Problem
