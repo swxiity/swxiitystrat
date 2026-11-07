@@ -1,6 +1,8 @@
 # Night 4 Hard 95%WR
 
-```Loadout: DJ, Gatling Gun, Hacker, Juggernaut (LVL 20), Assassin```
+```
+Loadout: DJ, Gatling Gun, Hacker, Juggernaut (LVL 20), Assassin
+```
 
 **Notes:**
 
