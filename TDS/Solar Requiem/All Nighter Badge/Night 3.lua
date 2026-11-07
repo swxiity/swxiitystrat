@@ -10,7 +10,6 @@ getgenv().AutoMercenary = true
 
 local TDS = loadstring(game:HttpGet("https://getaether.cc/loader.lua"))()
 
-TDS:Loadout("DJ Booth", "Gatling Gun", "Hacker", "EvolvedJuggernaut", "Assassin")
 TDS:Mode("Act3")
 TDS:GameInfo("Poor Recollection", {})
 
